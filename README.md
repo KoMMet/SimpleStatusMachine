@@ -6,4 +6,6 @@
 
 ## compile 
 
-is Visual Studio 2019
+Windows10 64bit
+
+Visual Studio 2019
