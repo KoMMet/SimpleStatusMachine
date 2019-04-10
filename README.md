@@ -1,1 +1,5 @@
 # SimpleStatusMachine
+
+## target
+
+.Net Standard
